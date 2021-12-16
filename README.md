@@ -1,4 +1,4 @@
-<h1 align="center" ><a href"http://diego-quiz.great-site.net/relogio">Relógio🕒</a></h1>
+<h1 align="center" ><a href="http://diego-quiz.great-site.net/relogio">Relógio🕒</a></h1>
 
 <h5 align="center" style="color:darkgrey;">Um simples relogio digital e outro analógico, o projeto foi feito com o objetivo de desenvolver e treinar as habilidades de manipulação de dadas com Javascript<br><br><br></h5>
 <h4 align="center">
